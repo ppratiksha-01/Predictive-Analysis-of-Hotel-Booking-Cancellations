@@ -1,10 +1,6 @@
 # **Hotel-Booking-Cancellation-Analysis**
 <br>
 
-<p align="center">
-   <img src="https://camo.githubusercontent.com/85468e195eba1dbfef0d629f12945707c8ac6424b11db6a293d287b866082cc8/68747470733a2f2f7777772e666c79746f636f6e6e6563742e636f6d2f436f6e74656e742f696d616765732f6769662f686f74656c2d676966352e676966" width="500" >
-</p>
-<br>
 
 This is a data analysis project conducted using Python, along with libraries such as Pandas, Matplotlib, and Seaborn. The primary goal of this project is to analyze hotel booking data and gain insights into the patterns and factors that contribute to booking cancellations.
 <br>
